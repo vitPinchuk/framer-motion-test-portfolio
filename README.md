@@ -1,3 +1,5 @@
+  <img width="1280" height="720" alt="frame motion portfolio project" src="https://github.com/user-attachments/assets/44608dad-40be-4a71-ae43-a0a76f1505d8" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
