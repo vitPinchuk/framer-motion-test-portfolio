@@ -1,4 +1,4 @@
-  <img width="1280" height="720" alt="frame motion portfolio project" src="https://github.com/user-attachments/assets/44608dad-40be-4a71-ae43-a0a76f1505d8" />
+  <img width="1280" height="720" alt="frame motion portfolio project" src="https://github.com/vitPinchuk/framer-motion-test-portfolio/blob/main/preview.png?raw=true" />
 
 # React + Vite
 
